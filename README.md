@@ -1,3 +1,4 @@
 # Data-Science
 
-Demo of Data Science Projects completed while General Assembly Start with Portfolio
+Demo of Data Science Projects completed while with General Assembly 
+Start with Portfolio
